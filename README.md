@@ -13,9 +13,7 @@ I'm a bioinformatics engineer.
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5b3e17027ab849d55ee1065164d925d7" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Python 🕓 5h12m ██████████████████████████████▎░ 94.7%
-Text   🕓 16m   █▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.9%
-JSON   🕓 1m    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.4%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
