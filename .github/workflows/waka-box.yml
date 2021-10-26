@@ -40,9 +40,9 @@ jobs:
       - name: Commit and push
         run: |-
           ./waka
-          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
+          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot" && git config pull.ff true
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
-          git pull --ff-only && git push
+          git pull && git push
           
           
